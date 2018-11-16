@@ -1,0 +1,3 @@
+student name : Jeremy Simon
+student number : 630845
+student class : INF1SA
